@@ -1,0 +1,15 @@
+
+ù
+UpdateAccountEvent.protojavaprotobuf"Í
+UpdateAccountEvent
+slot (Rslot
+pubkey (Rpubkey
+lamports (Rlamports
+owner (Rowner
+
+executable (R
+executable
+
+rent_epoch (R	rentEpoch
+data (Rdata#
+write_version (RwriteVersionbproto3
